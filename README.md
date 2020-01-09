@@ -13,6 +13,9 @@ Please create 2 pages as following:
 ## Solution
 Developed using MVC (Model, View, Controller) architecture, jQuery and Bootstrap for styling.
 
+## Deploy
+Give it a try [Java Script Exercise](https://damp-mountain-30255.herokuapp.com/).
+
 ### About me
 Anan Sadiya – anansadiya@gmail.com
 
